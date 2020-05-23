@@ -1,13 +1,15 @@
-package main;
+package modelos;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import main.Calculador;
+
 public class Grupo {
 
 	List<Equipo> equipos = new ArrayList<>();
-	double latitud = 0.0;
-	double longitud = 0.0;
+	public double latitud = 0.0;
+	public double longitud = 0.0;
 	Calculador calculador;
 
 	public Grupo(double init, Calculador calculador) {
@@ -49,6 +51,7 @@ public class Grupo {
 			if(eqps.contains(equipo))
 				return true;
 		}
+		return false;
 	}
 
 	public void calcularCentro() {

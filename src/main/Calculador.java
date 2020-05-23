@@ -4,6 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;
 
+import modelos.Equipo;
+import modelos.Grupo;
+import utiles.ComparatorPorDistancia;
+import utiles.Excluyen;
+import utiles.LatLng;
+import utiles.Util;
+
 
 public class Calculador {
 
@@ -109,5 +116,6 @@ public class Calculador {
 				ret.add(excluyen.getOtro(equipo));
 			}
 		}
+		return ret;
 	}
 }

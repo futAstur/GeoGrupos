@@ -1,0 +1,36 @@
+AD Guillén Lafuerza	43.376	-5.817
+AD Ribadedeva	43.37	-4.53
+Andés CF	43.548	-6.704
+Argüero CF	43.533	-5.467
+Barcia CF	43.535	-6.507
+CD Covadonga B	43.379	-5.837
+CD La Manjoya	43.352	-5.891
+CD Lealtad de Villaviciosa B	43.471	-5.444
+CD Manuel Rubio	43.526	-5.656
+CD Treviense	43.505	-6.437
+CF Estudiantes	43.552	-5.618
+Celtic de Puerto	43.348	-5.889
+Club Europa de Nava	43.357	-5.498
+Deportiva Piloñesa	43.35	-5.373
+GD Bosco	43.545	-5.946
+Gozón CF	43.616	-5.804
+Hispano	43.574	-5.942
+Independiente CF	43.382	-5.584
+La Caridad CF	43.553	-6.822
+La Fresneda CF	43.408	-5.788
+Langreo Eulalia	43.302	-5.69
+Luarca CF	43.535	-6.534
+Marino de Cudillero CF	43.562	-6.164
+Muros Balompié	43.541	-6.107
+Puerto de Vega	43.56	-6.636
+Pumarín CF	43.379	-5.836
+Quintueles CF	43.527	-5.563
+Real Tapia CF	43.562	-6.948
+Ribadesella CF	43.458	-5.048
+SCD Campomanes	43.106	-5.816
+SD Astur Vegadense	43.462	-7.04
+SD Atlético La Camocha	43.488	-5.648
+SD Narcea	43.184	-6.545
+SD Real Juvencia	43.341	-5.981
+UD San Claudio B	43.355	-5.923
+Unión Astur	43.52	-5.691

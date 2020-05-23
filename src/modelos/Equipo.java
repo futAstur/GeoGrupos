@@ -1,6 +1,9 @@
-package main;
+package modelos;
 
 import java.util.Map;
+
+import utiles.LatLng;
+import utiles.Util;
 
 public class Equipo {
 	public String nombre;
@@ -17,7 +20,7 @@ public class Equipo {
 	}
 
 	public double distanciaAGrupo() {
-		Util.calcularDistancia(new LatLng(grupo.latitud, grupo.longitud), new LatLng(latitud, longitud));
+		return Util.calcularDistancia(new LatLng(grupo.latitud, grupo.longitud), new LatLng(latitud, longitud));
 	}
 	
 }

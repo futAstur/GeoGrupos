@@ -1,4 +1,6 @@
-package main;
+package utiles;
+
+import modelos.Equipo;
 
 public class Excluyen {
 	public Equipo e1;
@@ -10,6 +12,9 @@ public class Excluyen {
 	}
 	public boolean contains(Equipo equipo) {
 		return e1.equals(equipo) || e2.equals(equipo);
+	}
+	public Equipo getOtro(Equipo equipo) {
+		return e1.equals(equipo)?e2:e1;
 	}
 	
 	
